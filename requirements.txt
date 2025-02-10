@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+matplotlib
+pillow
+rasterio
+git+https://github.com/facebookresearch/segment-anything.git
+opencv-python 
